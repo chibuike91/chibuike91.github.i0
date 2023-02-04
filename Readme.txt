@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: eNno
-Template URL: https://bootstrapmade.com/enno-free-simple-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+The .scss (Sass) files are only avilable in the pro version. You can buy it from: https://bootstrapmade.com/enno-free-simple-bootstrap-template/
